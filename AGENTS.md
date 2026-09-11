@@ -10,7 +10,7 @@ Guía operativa y técnica para agentes de Inteligencia Artificial que colaboren
 
 * **Propósito:** Ofrecer a productores, artistas y clientes un catálogo interactivo con reproductor de audio continuo, tabla comparativa de licencias comerciales y un formulario de contacto seguro protegido contra spam para consultas y cotizaciones directas.
 * **Dominio en Producción:** [https://fluxbeats.mgdc.site](https://fluxbeats.mgdc.site)
-* **CDN de Assets (Cloudflare R2):** `https://fluxbeats-assets.mgdc.site`
+* **CDN de Assets (Cloudflare R2):** `https://assets.mgdc.site/fluxbeats`
 
 ---
 

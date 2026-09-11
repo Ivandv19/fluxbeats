@@ -31,7 +31,7 @@ describe("SobreMi (Sección Sobre el Productor)", () => {
 		expect(img).toBeInTheDocument();
 		expect(img).toHaveAttribute(
 			"src",
-			"https://fluxbeats-assets.mgdc.site/about-me-studio.jpg",
+			"https://assets.mgdc.site/fluxbeats/about-me-studio.jpg",
 		);
 	});
 });
